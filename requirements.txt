@@ -1,0 +1,11 @@
+pandas
+configparser
+sqlalchemy
+psycopg2
+pytest
+black
+flake8
+mypy
+isort
+
+
